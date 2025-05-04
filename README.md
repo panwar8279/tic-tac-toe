@@ -22,7 +22,7 @@ cd tic-tac-toe-react
 Start the development server:
 npm start
 
-Open **https://tic-tac-toe.techproproject.tech/** in your browser to view the app.
+Open **https://tic-tac.techprodevelopers.com/** in your browser to view the app.
 
 ### How to Play
 Click on a square to make a move.
